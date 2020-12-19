@@ -1,0 +1,187 @@
+.air-api-row{
+    width:250px;
+    height:350px;
+    position: relative;
+    top:70px;
+    left:50px;
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    border-radius:10px;
+    background: transparent;
+
+}
+
+
+.api-bar-red{
+    width:80%;
+    background-color :red;
+      -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    height:10px;
+    border-radius: 5px;
+    margin: auto;
+    position: relative;
+    top:15px;
+
+}
+
+.api-bar-green{
+    background-color: #39FF14;
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    width:80%;
+    border-radius: 5px;
+    height:10px;
+    margin: auto;
+    position: relative;
+    top:15px;
+
+}
+
+.api-bar-yellow{
+    background-color: yellow;
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    width:80%;
+    border-radius: 5px;
+    height:10px;
+    margin: auto;
+    position: relative;
+    top:15px;
+
+}
+
+.api-bar-orange{
+    background-color: orange;
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    width:80%;
+    border-radius: 5px;
+    height:10px;
+    margin: auto;
+    position: relative;
+    top:15px;
+
+}
+
+.api-bar-purple{
+    background-color: purple;
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    width:80%;
+    border-radius: 5px;
+    height:10px;
+    margin: auto;
+    position: relative;
+    top:15px;
+
+}
+
+.api-bar-danger-red{
+    background-color:#ae0700;
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    width:80%;
+    border-radius: 5px;
+    height:10px;
+    margin: auto;
+    position: relative;
+    top:15px;
+
+}
+
+
+
+
+
+
+
+
+
+.air-api-general{
+
+    text-align: center;
+    font-size: 60px;
+    position: relative;
+    top:30px;
+    font-weight: 700;
+}
+
+
+.air-api-name{
+    
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    top:20px;
+    letter-spacing: 3px;
+
+}
+
+.air-api-fetched{
+    text-align: center;
+    font-size:40px;
+    color:white;
+    font-weight: 500;
+    text-shadow: 4px 8px 0px rgb(77, 73, 73);
+    
+}
+
+.air-mg{
+    margin-top:70px;
+}
+
+.air-api-gen-info{
+    width:40%;
+    position: absolute;
+    right: 30px;
+    min-height: 350px;
+    padding:20px;
+    top:170px;
+    background: transparent;
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+    border-radius:10px;
+
+}
+
+.heading-level{
+    font-size: 25px;
+    color:green;
+}
+
+.heading-impli{
+    font-size: 25px;
+    color: green;
+}
+
+.heading-statement{
+    font-size: 25px;
+    color: green;
+}
+
+.info-mg{
+    margin-top: 20px;
+}
+
+.level-info{
+
+    font-size: 20px;
+}
+
+.impli-info{
+    font-size: 20px;
+}
+
+.statement-info{
+    font-size: 20px;
+}

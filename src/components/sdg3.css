@@ -1,0 +1,74 @@
+.separator-goals-3{
+    height: 20px;
+    }
+    .goal-head-3{
+    border: 2px solid black;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    color: white;
+    }
+    .pics-goal-inner-3{
+    height: 400px;
+    }
+    .pic-round-3{
+    border-radius: 50%;
+    text-align: center;
+    }
+    
+    .heading-3{
+    color: white;
+    text-shadow: 3px 3px 4px aqua;
+    font-size: 70px;
+    }
+    .goal-body-3{
+    opacity: 0.8;
+    background-color: black;
+    }
+    .content-3{
+    border: 2px solid black;
+    padding: 50px;
+    background-color: white;
+    margin-bottom: 20px;
+    }
+    .text-bkg-3{
+    border-color: black;
+    }
+    .wrapper-3{
+    height: 120%;
+    background-color: black;
+    }
+    p{
+    font-size: 30px;
+    }
+    .img1-3 {
+     opacity: 0.6;
+     margin-left: 50px;
+    }
+    
+    .img1-3:hover {
+     opacity: 1.0;
+    }
+    
+    .img-3{
+    text-align: center;
+    }
+    .content-3 p{
+    color: black;
+    }
+    .img1-3 {
+     width: 150px;
+     height: 150px;
+     background: red;
+     transition: width 1s, height 1s, transform 1s;
+    }
+    
+    .img1-3:hover {
+     width: 300px;
+     height: 300px;
+     transform: rotate(360deg);
+    }
+    .wrap-3{
+    margin: 0px 100px 0px 100px;
+    }
+    

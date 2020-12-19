@@ -1,0 +1,44 @@
+
+.blog-background{
+    width:100%;
+    height: 100vh;
+    background-image: url(createblog2.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border:2px solid transparent;
+}
+
+.create-blog-form{  
+height: 100vh;
+}
+
+.create-blog-form form{
+    width:50%;
+}
+
+.create-blog-form form .form-group{
+    width:40%;
+    margin: 40px;
+}
+
+.desp1 input{
+    height:15vh;
+}
+
+.desp2 input{
+    height:15vh;
+}
+
+
+.form-group label{
+    color:black;
+}
+
+.form-group input{
+    color: black;   
+}
+
+.form-control{
+    color: blue;
+    background-color: white;
+}

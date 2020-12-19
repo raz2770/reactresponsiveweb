@@ -1,0 +1,15 @@
+.ch4-heading{
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+}
+
+.ch4-value-in-kg{
+    color: red;
+    font-size: 25px;
+    letter-spacing: 5px;
+}
+
+.ch4-heading:hover{
+    color: black;
+}

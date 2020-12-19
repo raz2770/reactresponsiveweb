@@ -1,0 +1,49 @@
+.global-temp-footer{
+    height:110px;
+    width: 100%;
+    position: relative;
+    left:10px;
+    background: #232526;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    display: grid;
+    color: white;
+}
+
+.symbols{
+    display: flex;
+    justify-content: center;
+}
+
+.footer-global{
+    height: fit-content;
+}
+
+.symbols span{
+    font-size: 45px;
+  
+}
+
+
+.symbols svg path{
+    color: red;
+    font-size: 40px;
+}
+
+.global-content{
+    width:fit-content;
+    margin: auto;
+}
+
+.symbols svg {
+  font-size: 70px;
+}
+
+.small span{
+
+    font-size: 12px;
+    position: relative;
+    top:5px;
+    left:3px;
+}
+

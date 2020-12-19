@@ -1,0 +1,150 @@
+
+  
+  .header p{
+    color:white;
+    font-weight: lighter;
+    margin-left:10px;
+  }
+  
+  .close:hover{
+    color:white; 
+  }
+
+  
+  a{
+    color:black;
+    font-size: 30px;
+    list-style: none;
+    text-decoration:none;
+  }
+  
+  a:hover{
+    color:white;
+    text-decoration:none;
+  }
+  
+  
+  body{
+    background:black;
+  }
+  
+  .left{
+    font-size: 30px;
+    color: white;
+    margin-top: 10px;
+    margin-left:10px;
+    position: absolute;
+    right:10px;
+  }
+
+  
+  .rule{
+    color: white;
+    width:100%;
+    border:0.5px solid white;
+    opacity: 0.5;
+  }
+
+  .hamb{
+    display: flex;
+    align-content: right;
+    align-items: left;
+    position: absolute;
+    left: 10px;
+    margin-top:10px;
+  }
+
+  .hamburger{
+    color:	#50BFE6;
+    font-size:30px;
+   
+  }
+  
+    .right{
+      display: none;
+    }
+
+    .rule{
+      color: white;
+      width:100%;
+      border:0.5px solid white;
+      opacity: 0.5;
+      margin-top:20px;
+      margin-bottom: 20px;
+    }
+
+  
+    .dropdown{
+      display:grid;
+      color:white;
+      background-color: black;
+      font-weight: lighter;
+      height: 100vh;
+      width:25%;
+      z-index: 100;
+      
+    }
+    
+    .drop{
+      margin:20px;
+    }
+  
+    .txt{
+      justify-content: center;
+      text-align: center;
+      font-size:15px;
+      text-transform: uppercase;
+    }
+  
+    .bt{
+      margin-top:10px;
+    }
+  
+    .icons{
+      display: flex;
+      font-size:30px;
+      justify-content: center;
+    }
+  
+    .icon{
+      margin:15px;
+      cursor: pointer;
+    }
+  
+    .link a{
+      padding:10px;
+      letter-spacing: 5px;
+      text-transform: uppercase;
+      font-size:20px;
+    }
+  
+  
+    .hamb{
+      display: flex;
+      align-content: right;
+      align-items: left;
+      position: absolute;
+      right: 5px;
+      margin-top:10px;
+      color:white;
+    }
+  
+    .hamburger{
+      color:	white;
+      font-size:30px;
+     
+    }
+  
+  
+  .right{
+    margin-top: 10px;
+    font-size:14px;
+  }
+  
+  .closex{
+    font-size: 40px;
+    color:white;
+    z-index:1000;
+  }
+  
+  

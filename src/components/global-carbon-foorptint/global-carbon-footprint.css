@@ -1,0 +1,106 @@
+.glob-footprint{
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+.globe{
+    width:100%;
+    height: 100%;
+    margin:auto;
+}
+
+.globe img{
+    width: 100%;
+    height: 100%;
+}
+
+.globe-top{
+    position: absolute;
+    top:0;
+    height: 12%;
+    width:100%;
+    display: flex;
+    overflow: hidden;
+    background-color:rgba(0,0,0,0.6);
+}
+
+.no2-box{
+    transform: skewX(-15deg);
+    width: 70%;
+    margin: auto;
+    height: 100%;
+    justify-content: center;
+    text-align:center;
+}
+
+.ch4-box{
+    transform: skewX(-15deg);
+    width: 70%;
+    margin: auto;
+    height: 100%;
+    justify-content: center;
+    text-align:center;
+}
+
+.co2-box{
+    transform: skewX(-15deg);
+    width: 70%;
+    margin: auto;
+    height: 100%;
+    justify-content: center;
+    text-align:center;
+}
+
+
+.co2{
+    background: #232526;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    width: 35%;
+    height: 100%;
+    transform: skewX(15deg);
+    position: relative;
+    right: 16px;
+}
+
+
+.no2{
+    background: #232526;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    width:40%;
+    height: 100%;
+    transform: skewX(15deg);
+
+ 
+}
+
+.ch4{
+    background: #232526;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    width: 35%;
+    height: 100%;
+    transform: skewX(15deg);
+    position: relative;
+    left: 16px;
+}
+
+.ems{
+    border: 3px solid;
+	border-image-slice: 1;
+	border-image-source:linear-gradient(180deg ,rgb(0,176,227,1) 48%,rgb(180,160,255,1) 100%);
+  
+}
+
+.ems:hover{
+    background: #DBE6F6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #C5796D, #DBE6F6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #C5796D, #DBE6F6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+cursor: pointer;
+
+}
+
+
+

@@ -1,0 +1,50 @@
+.separator-sdg{
+    height: 50px;
+}
+
+.sust-pic{
+    text-align:center;
+    margin-bottom: 30px;
+    margin-top: 60px;
+    padding:100px 30px;
+    text-align: center;
+}
+
+.header-sdg{
+    margin-top:-100px;
+   text-align:center;
+}
+
+.elep{
+    opacity: 1;
+    width : 100%;
+}
+.top-pic{
+    opacity: 0.6;
+    position: relative;
+    bottom: 450px;
+}
+.body-pic{
+    padding: 20px;
+    background-color: black;
+}
+.wrapper-sdg{
+    background-color: black;
+}
+.wrapper2-sdg{
+    position: relative;
+    bottom : 400px;
+    background-color: black;
+}
+.pic-sdg{
+    box-shadow: 0px 0px 10px 5px  white;
+}
+.l{
+
+    text-align: center;
+}
+.r{
+
+    text-align: center;
+}
+

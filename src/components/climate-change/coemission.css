@@ -1,0 +1,72 @@
+.coform button{
+    width:50px;
+    font-size: 50px;
+    height: 50px;
+}
+
+.cofull{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+}
+
+.co-img{
+    width:900px;
+    height: 500px;
+    margin: auto;
+    position: relative;
+    top:50px;
+  
+}
+
+
+
+.nasagif img{
+    width:100%;
+    height:100%;
+}
+
+.co-footer{
+    width:100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.co-img img:after{
+    content: ' ';
+    display: block;
+    position: absolute;
+    background-image:url(notfound5.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 500px;
+    position: relative;
+    bottom: 100%;
+ 
+}
+
+.co-img img{
+    width:100%;
+    height: 100%;
+}
+
+.co-img-search{
+ 
+    width:900px;
+    height: 500px;
+    margin: auto;
+}
+
+.co-img-search img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.co-level-cont{
+    position: relative;
+    top:10px;
+  height: 90%;
+
+}

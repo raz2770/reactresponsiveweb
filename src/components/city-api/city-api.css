@@ -1,0 +1,29 @@
+.city-api-row{
+    background-image: url(city-api-back2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width:100%;
+    height:100vh;
+}
+
+.search-bar{
+    position: relative;
+    top:10px;
+}
+
+.search-input{
+    outline:none;
+    border:none;
+    background: none;
+    width: 60%;
+    border-bottom: 2px solid white;
+    height: 5vh;
+
+}
+
+.search-icon{
+    font-size: 25px;
+    position: relative;
+    left:25px;
+    top:5px;
+}

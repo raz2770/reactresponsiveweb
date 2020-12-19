@@ -1,0 +1,137 @@
+.blog-cont{
+    color:black;
+    position: relative;
+    background-color:#262626;
+    width:100%;
+    height:100%;
+    border:2px solid red;
+}
+
+.blog-wall img{
+    width:100%;
+    height:70vh;
+}
+
+.blog-write{
+    min-height: 100vh;
+}
+
+.far{
+    color: white;
+}
+
+.blog-bars{
+    min-height: 100vh;
+}
+
+.blog-1{
+    position: relative;
+    left:20px;
+    color:rgb(141, 218, 218);
+}
+.blog-1-date p{
+    font-size: 20px;
+}
+
+.blog-1-topic p{
+    font-size: 40px;
+}
+
+.blog-1-author{
+    font-size: 20px;
+}
+
+.blog-1-designation{
+    font-size: 20px;
+}
+
+.blog-1-image{
+    width:80%;
+}
+
+.blog-1-image img{
+    width:100%;
+}
+
+.blog-1-cont-1{
+    width:80%;
+    font-size: 20px;
+    letter-spacing: 3px;
+    color:rgb(218, 187, 202);
+}
+
+.blog-1-cont-2{
+    width:80%;
+    font-size:20px;
+    letter-spacing: 3px;
+}
+
+.blog-text{
+    margin: 30px;
+}
+
+.ruler{
+    border-top:2px solid #19d7f8;
+}
+
+.blog-bars form input{
+    width:80%;
+    background-color: white;
+    position: relative;
+    top:30px;
+    left:40px;
+    border:2px solid rgb(147,112,219);
+}
+
+.blog-bars form input[type="text"]::placeholder {
+    color:black; 
+    font-size:13px;
+    letter-spacing: 2px;
+    opacity: 1;
+} 
+
+.blog-box-recent-post{
+    position: relative;
+    top:100px;
+}
+
+.blog-box-most-liked{
+    position: relative;
+    top:100px;
+}
+
+.blog-box-most-commented{
+    position: relative;
+    top:100px;
+}
+
+.blog-box{
+    margin: 30px;
+    border-radius:10px;
+    padding: 25px;
+    background-color: 	black;
+    box-shadow:0 5px 5px 0 black,
+                0 5px 5px 0 black,
+                0 5px 5px 0 black,
+                0 5px 5px 0 black;
+}
+
+.blog-box-posts{
+    display: block;
+}
+
+.blog-box-posts a{
+font-size: 15px;
+display: block;
+color:rgb(0,0,128);
+}
+
+.blog-box-heading{
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+
+.blog-mg{
+    margin: 20px;
+    color: white;
+}
